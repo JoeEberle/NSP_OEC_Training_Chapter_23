@@ -1,11 +1,4 @@
 
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 23 - National Ski Patrol - Outdoor Emergency Care chapter 23
-National Ski Patrol - Outdoor Emergency Care chapter 23
-
-![Image image_filename](code.png)
-
 Chapter 23: Chest Trauma
 
 1. List the major anatomic structures of the chest cavity.
@@ -293,44 +286,3 @@ For serious chest injuries (e.g., tension pneumothorax, cardiac tamponade, flail
 ### Conclusion:
 Chest injuries require prompt and effective management to ensure the patient’s airway and breathing are maintained. The management strategy varies based on the type of injury, but the primary goals are stabilizing the patient, controlling pain, maintaining oxygenation, and preventing shock.
 
-
-![Image image_filename](sample.png)
-
-## Getting Started
-To get started with the **Nsp Oec Training Chapter 23** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-
-## Notebook Features
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-    
-## Deliverables or Figures
- ![additional_image](chest anatomy.png)  <br>![additional_image](chest.png)  <br>![additional_image](managing chest injuries.png)  <br>![additional_image](managing impact injuries.png)  <br>![additional_image](NSP_OEC_Training_Chapter_23.png)  <br>
-    
-
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
-
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
