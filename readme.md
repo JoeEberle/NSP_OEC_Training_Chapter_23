@@ -323,11 +323,8 @@ To get started with the **Nsp Oec Training Chapter 23** solution repository, fol
  ![additional_image](chest anatomy.png)  <br>![additional_image](chest.png)  <br>![additional_image](managing chest injuries.png)  <br>![additional_image](managing impact injuries.png)  <br>![additional_image](NSP_OEC_Training_Chapter_23.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
