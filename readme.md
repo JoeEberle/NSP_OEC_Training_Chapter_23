@@ -286,7 +286,7 @@ For serious chest injuries (e.g., tension pneumothorax, cardiac tamponade, flail
 ### Conclusion:
 Chest injuries require prompt and effective management to ensure the patient’s airway and breathing are maintained. The management strategy varies based on the type of injury, but the primary goals are stabilizing the patient, controlling pain, maintaining oxygenation, and preventing shock.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
