@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Nsp Oec Training Chapter 23 
-    ## National Ski Patrol - Outdoor Emergency Care chapter 23
+    
+# Nsp Oec Training Chapter 23 
+
+## National Ski Patrol - Outdoor Emergency Care chapter 23
+
     ![Image image_filename](code.png)
 Chapter 23: Chest Trauma
 
@@ -309,9 +312,9 @@ To get started with the **Nsp Oec Training Chapter 23** solution repository, fol
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Nsp Oec Training Chapter 23** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -321,6 +324,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](chest anatomy.png)  <br>![additional_image](chest.png)  <br>![additional_image](managing chest injuries.png)  <br>![additional_image](managing impact injuries.png)  <br>![additional_image](NSP_OEC_Training_Chapter_23.png)  <br>
