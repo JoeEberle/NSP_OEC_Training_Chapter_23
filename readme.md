@@ -293,7 +293,7 @@ The management of chest injuries depends on the type and severity of the injury.
 For serious chest injuries (e.g., tension pneumothorax, cardiac tamponade, flail chest), rapid transport to a trauma center is critical. These injuries require advanced interventions that may not be available in the field.
 
 ### Conclusion:
-Chest injuries require prompt and effective management to ensure the patient’s airway and breathing are maintained. The management strategy varies based on the type of injury, but the primary goals are stabilizing the patient, controlling pain, maintaining oxygenation, and preventing shock.
+Chest injuries require prompt and effective management to ensure the patientâ€™s airway and breathing are maintained. The management strategy varies based on the type of injury, but the primary goals are stabilizing the patient, controlling pain, maintaining oxygenation, and preventing shock.
 
 
 ![Solution](code.png)
