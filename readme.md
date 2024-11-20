@@ -293,7 +293,7 @@ The management of chest injuries depends on the type and severity of the injury.
 For serious chest injuries (e.g., tension pneumothorax, cardiac tamponade, flail chest), rapid transport to a trauma center is critical. These injuries require advanced interventions that may not be available in the field.
 
 ### Conclusion:
-Chest injuries require prompt and effective management to ensure the patient’s airway and breathing are maintained. The management strategy varies based on the type of injury, but the primary goals are stabilizing the patient, controlling pain, maintaining oxygenation, and preventing shock.
+Chest injuries require prompt and effective management to ensure the patient�s airway and breathing are maintained. The management strategy varies based on the type of injury, but the primary goals are stabilizing the patient, controlling pain, maintaining oxygenation, and preventing shock.
 
 
 ![Solution](code.png)
@@ -301,24 +301,4 @@ Chest injuries require prompt and effective management to ensure the patient’s
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 23** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](chest anatomy.png)  <br>![additional_image](chest.png)  <br>![additional_image](managing chest injuries.png)  <br>![additional_image](managing impact injuries.png)  <br>![additional_image](NSP_OEC_Training_Chapter_23.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
